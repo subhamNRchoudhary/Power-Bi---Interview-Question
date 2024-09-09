@@ -344,41 +344,41 @@ Advanced Set Analysis
 
 *The other set of questions Uploaded in 9/9/2024*
 
-Here are the **top 10 Power BI interview questions** commonly asked:
+Here are the top 10 Power BI interview questions commonly asked:
 
-### 1. **What are the key components of Power BI?**
-    **Answer**: Power BI consists of several key components, including Power BI Desktop, Power BI Service, Power BI Report Server, Power BI Gateway, Power BI Mobile, and Power Query.
+### 1. What are the key components of Power BI?
+    Answer: Power BI consists of several key components, including Power BI Desktop, Power BI Service, Power BI Report Server, Power BI Gateway, Power BI Mobile, and Power Query.
 
 ### 2. **What is the difference between Power BI Desktop and Power BI Service?**
-    **Answer**: Power BI Desktop is a local application for developing reports, while Power BI Service is a cloud-based service for sharing, collaborating, and consuming Power BI reports.
+     Answer: Power BI Desktop is a local application for developing reports, while Power BI Service is a cloud-based service for sharing, collaborating, and consuming Power BI reports.
 
-### 3. **What is DAX in Power BI?**
-    **Answer**: DAX (Data Analysis Expressions) is a formula language used in Power BI to create custom calculations, measures, and calculated columns to enhance the data model.
+### 3. What is DAX in Power BI?
+    Answer: DAX (Data Analysis Expressions) is a formula language used in Power BI to create custom calculations, measures, and calculated columns to enhance the data model.
 
-### 4. **How do you handle relationships in Power BI?**
-    **Answer**: In Power BI, relationships between tables can be defined in the Model View. You can establish **one-to-many** or **many-to-many** relationships and specify **cross-filter directions**.
+### 4. How do you handle relationships in Power BI?
+    Answer: In Power BI, relationships between tables can be defined in the Model View. You can establish **one-to-many** or **many-to-many** relationships and specify **cross-filter directions**.
 
 ### 5. **What are Power BI Filters, and how are they used?**
     **Answer**: Power BI has several filters, such as visual, page, and report-level filters. They allow you to limit the data shown in visuals, pages, or entire reports.
 
 ### 6. **How do you optimize Power BI reports for performance?**
-    **Answer**: Optimizing reports includes:
+    Answer: Optimizing reports includes:
          - Reducing the size of the dataset.
          - Using aggregations and summarized data.
          - Avoiding too many calculated columns/measures.
          - Proper use of relationships and joins.
 
 ### 7. **Explain what Power Query is in Power BI.**
-    **Answer**: Power Query is a data connection technology that enables users to discover, connect, clean, and transform data before loading it into the Power BI data model.
+    Answer: Power Query is a data connection technology that enables users to discover, connect, clean, and transform data before loading it into the Power BI data model.
 
 ### 8. **What is the use of the Power BI Gateway?**
-        **Answer**: The Power BI Gateway is used to connect on-premises data sources to the cloud, enabling secure data refreshes and real-time access for dashboards and reports in Power BI Service.
+    Answer: The Power BI Gateway is used to connect on-premises data sources to the cloud, enabling secure data refreshes and real-time access for dashboards and reports in Power BI Service.
 
 ### 9. **What are the differences between calculated columns and measures in Power BI?**
-        **Answer**: Calculated columns are stored in your data model and calculated row-by-row, while measures are calculated based on the context of the report (e.g., aggregations, filtering).
+    Answer: Calculated columns are stored in your data model and calculated row-by-row, while measures are calculated based on the context of the report (e.g., aggregations, filtering).
 
 ### 10. **How do you implement row-level security (RLS) in Power BI?**
-    **Answer**: Row-Level Security (RLS) in Power BI is used to restrict data access based on user roles. You can define roles and apply DAX filters in Power BI Desktop, then assign users to these roles in Power 
+    Answer: Row-Level Security (RLS) in Power BI is used to restrict data access based on user roles. You can define roles and apply DAX filters in Power BI Desktop, then assign users to these roles in Power 
        BI Service.
 
 
