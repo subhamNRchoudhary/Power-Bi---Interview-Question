@@ -381,4 +381,37 @@ Here are the top 10 Power BI interview questions commonly asked:
     Answer: Row-Level Security (RLS) in Power BI is used to restrict data access based on user roles. You can define roles and apply DAX filters in Power BI Desktop, then assign users to these roles in Power 
        BI Service.
 
+       
+
+### 1. **What is the role of Power BI’s new On-object interaction feature?**
+   - *Answer*: The On-object interaction allows users to directly modify visual elements like titles, data labels, and axis from within the visual itself. It streamlines the report-building process by reducing the need to open the pane separately.
+
+### 2. **Can you explain the function of “Field Parameters” in Power BI?**
+   - *Answer*: Field Parameters allow dynamic switching between different fields in a visual, enabling more flexible reports where users can choose which dimension or measure they want to view without editing the report manually.
+
+### 3. **What are the benefits of Power BI Fabric (introduced in 2023)?**
+   - *Answer*: Power BI Fabric is a unified platform for analytics that integrates Power BI with data engineering, data science, and data integration tools. It offers seamless collaboration across different roles in the data lifecycle and is built on Microsoft’s OneLake storage.
+
+### 4. **What is the significance of Composite Models on Power BI datasets?**
+   - *Answer*: Composite models allow you to combine data from multiple sources (including DirectQuery, import, and live connections) in the same model. It helps build reports using both large-scale datasets and smaller data sources in real time.
+
+### 5. **How does Power BI handle sensitivity labels and data governance?**
+   - *Answer*: Power BI integrates with Microsoft Information Protection, allowing users to apply sensitivity labels to reports and datasets to ensure compliance with data governance policies. These labels help protect sensitive information when exporting or sharing data.
+
+### 6. **What is the “Optimize Ribbon,” and how does it improve report performance?**
+   - *Answer*: The Optimize Ribbon helps with performance tuning in Power BI. It includes features like Pause/Refresh visuals and Performance Analyzer to diagnose and resolve report performance issues by pausing auto-refresh and allowing selective refresh.
+
+### 7. **What are the major improvements to the DAX function in recent updates?**
+   - *Answer*: Recent improvements include new DAX functions like `NETWORKDAYS` for calculating working days between two dates, and `TOCSV` for exporting DAX table results directly into CSV format. These updates enhance flexibility in handling date and time operations.
+
+### 8. **How do you use Power BI’s “Dataflow Gen2,” and what advantages does it offer?**
+   - *Answer*: Dataflow Gen2 provides enhanced scalability and faster data ingestion with lower cost per gigabyte of data stored. It offers a more robust ETL (Extract, Transform, Load) process with auto-scaling and integrates seamlessly with Azure Data Lake for large datasets.
+
+### 9. **What are the recent advancements in Power BI’s AI integration?**
+   - *Answer*: Power BI has improved integration with Azure Cognitive Services and AutoML (Automated Machine Learning), allowing users to build predictive models within Power BI itself. AI-powered visualizations like Decomposition Tree and Smart Narratives continue to provide deeper insights automatically.
+
+### 10. **What are the benefits of Power BI’s “Metrics” (formerly Goals) feature for tracking performance?**
+   - *Answer*: The Metrics feature allows organizations to track KPIs (Key Performance Indicators) directly within Power BI. It integrates with reports and dashboards to automatically update goals based on live data, offering real-time performance tracking and collaboration across teams.
+
+
 
